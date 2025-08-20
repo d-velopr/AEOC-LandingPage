@@ -27,7 +27,7 @@
                     },
                     arrows: {
                         style:"hermes",
-                        enable:true,
+                        enable:false,
                         hide_onmobile:true,
                         hide_under:1000,
                         hide_onleave:false,
@@ -105,7 +105,7 @@
                     },
                     arrows: {
                         style:"hermes",
-                        enable:true,
+                        enable:false,
                         hide_onmobile:true,
                         hide_under:1000,
                         hide_onleave:false,
@@ -189,7 +189,7 @@
                     },
                     arrows: {
                         style:"metis",
-                        enable:true,
+                        enable:false,
                         hide_onmobile:true,
                         hide_under:600,
                         hide_onleave:true,
